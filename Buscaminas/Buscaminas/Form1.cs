@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Buscaminas
-{
+{//trdtyrdytrf
     public partial class Form1 : Form
     {
         //declaro el array de botones
